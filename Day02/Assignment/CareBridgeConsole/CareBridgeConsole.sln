@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37314.3 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareBridgeConsole", "CareBridgeConsole.csproj", "{E95DEAE0-B208-4357-86D1-C1561B360F8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E95DEAE0-B208-4357-86D1-C1561B360F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E95DEAE0-B208-4357-86D1-C1561B360F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E95DEAE0-B208-4357-86D1-C1561B360F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E95DEAE0-B208-4357-86D1-C1561B360F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41D2A756-EDD8-4E3C-A443-B241B42AD2B4}
+	EndGlobalSection
+EndGlobal
