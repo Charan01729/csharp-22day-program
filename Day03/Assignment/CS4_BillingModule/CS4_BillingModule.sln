@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37314.3 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS4_BillingModule", "CS4_BillingModule.csproj", "{6DF7D867-EB7B-40C3-B754-3B496866EE7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DF7D867-EB7B-40C3-B754-3B496866EE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF7D867-EB7B-40C3-B754-3B496866EE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF7D867-EB7B-40C3-B754-3B496866EE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF7D867-EB7B-40C3-B754-3B496866EE7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F8A4043-57D7-4FA6-86AA-479F24152547}
+	EndGlobalSection
+EndGlobal

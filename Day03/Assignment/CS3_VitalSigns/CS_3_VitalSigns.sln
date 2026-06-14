@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37314.3 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_3_VitalSigns", "CS_3_VitalSigns.csproj", "{E14D14A6-8F5B-48BF-A622-B34300A3A2C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E14D14A6-8F5B-48BF-A622-B34300A3A2C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E14D14A6-8F5B-48BF-A622-B34300A3A2C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E14D14A6-8F5B-48BF-A622-B34300A3A2C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E14D14A6-8F5B-48BF-A622-B34300A3A2C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {282AA680-AF04-4479-99C0-979EF1D21AFF}
+	EndGlobalSection
+EndGlobal
